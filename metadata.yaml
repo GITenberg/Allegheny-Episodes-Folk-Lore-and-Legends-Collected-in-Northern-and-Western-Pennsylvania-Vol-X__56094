@@ -1,11 +1,16 @@
 _repo: Allegheny-Episodes-Folk-Lore-and-Legends-Collected-in-Northern-and-Western-Pennsylvania-Vol-X__56094
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56094-h/images/cover.jpg
 creator:
   author:
     agent_name: Shoemaker, Henry Wharton
     gutenberg_agent_id: '48668'
     url: http://www.gutenberg.org/2009/agents/48668
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56094#Allegheny-Episodes-Folk-Lore-and-Legends-Collected-in-Northern-and-Western-Pennsylvania-Vol-X_
 gutenberg_issued: '2017-11-30'
 gutenberg_type: Text
 identifiers:
